@@ -1,4 +1,4 @@
-# 800 - Close Pull Request
+# 800 - Close The Pull Request
 
 If needed, you can also close a Pull Request (PR) from the command line.
 
