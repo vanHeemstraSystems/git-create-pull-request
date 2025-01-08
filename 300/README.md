@@ -27,3 +27,7 @@ See [README.md](./600/README.md)
 ## 700 - Tips and Tricks
 
 See [README.md](./700/README.md)
+
+## 800 - Close Pull Request
+
+See [README.md](./800/README.md)
