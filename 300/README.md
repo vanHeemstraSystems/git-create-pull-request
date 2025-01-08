@@ -28,6 +28,6 @@ See [README.md](./600/README.md)
 
 See [README.md](./700/README.md)
 
-## 800 - Close Pull Request
+## 800 - Close The Pull Request
 
 See [README.md](./800/README.md)
