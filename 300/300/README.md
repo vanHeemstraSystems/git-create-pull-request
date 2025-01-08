@@ -15,6 +15,8 @@ For example, add the following line to README.md:
 $ cat <<EOF >> ./README.md
 Hello, world!
 EOF
+$ git add .
+$ git commit -m "Add Hello, world! to README.md"
 ```
 
 TIP: Use [cat](https://phoenixnap.com/kb/linux-cat-command) command.
