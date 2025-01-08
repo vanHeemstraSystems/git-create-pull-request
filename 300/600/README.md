@@ -12,5 +12,5 @@ $ gh pr create --base TARGET_BRANCH_NAME --head SOURCE_BRANCH_NAME --title "PULL
 For example:
 
 ```
-$ gh pr create --base main --head add-greeting --title "Add greeting to README" --body "This PR adds a greeting to the README file."
+$ gh pr create --base main --head feature/add-greeting --title "Add greeting to README" --body "This PR adds a greeting to the README file."
 ```
