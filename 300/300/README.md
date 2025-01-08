@@ -8,3 +8,13 @@ Edit the files and make your changes. Once done, add the changes to staging and 
 $ git add .
 $ git commit -m "COMMIT_MESSAGE"
 ```
+
+For example, add the following line to README.md:
+
+```
+cat <<EOF >> ./README.md
+Hello, world!
+EOF
+```
+
+TIP: Use [cat](https://phoenixnap.com/kb/linux-cat-command) command.
