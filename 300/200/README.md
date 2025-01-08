@@ -9,5 +9,5 @@ $ git checkout -b BRANCH_NAME
 For example:
 
 ```
-$ git checkout -b add-greeting
+$ git checkout -b feature/add-greeting
 ```
