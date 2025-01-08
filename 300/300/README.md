@@ -12,7 +12,7 @@ $ git commit -m "COMMIT_MESSAGE"
 For example, add the following line to README.md:
 
 ```
-cat <<EOF >> ./README.md
+$ cat <<EOF >> ./README.md
 Hello, world!
 EOF
 ```
