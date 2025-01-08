@@ -5,3 +5,9 @@
 ```
 $ git push origin BRANCH_NAME
 ```
+
+For example:
+
+```
+$ git push origin feature/add-greeting
+```
