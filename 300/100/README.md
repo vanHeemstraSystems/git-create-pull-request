@@ -8,3 +8,10 @@
 $ git clone https://github.com/USERNAME/REPOSITORY.git
 $ cd REPOSITORY
 ```
+
+For example:
+
+```
+$ git clone https://github.com/octocat/Hello-World.git
+$ cd Hello-World
+```
