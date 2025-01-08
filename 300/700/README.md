@@ -7,3 +7,8 @@
 - **Review Changes Locally**: Before pushing, use ```git diff``` to review your changes and ensure they are as expected.
 
 - **Update Your Branch**: Keep your branch up to date with the base branch to avoid merge conflicts. Use ```git fetch``` and ```git rebase``` or ```git merge```.
+
+```
+$ git fetch origin
+$ git rebase origin/main
+```
