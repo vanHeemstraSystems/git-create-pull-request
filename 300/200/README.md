@@ -5,3 +5,9 @@
 ```
 $ git checkout -b BRANCH_NAME
 ```
+
+For example:
+
+```
+$ git checkout -b add-greeting
+```
